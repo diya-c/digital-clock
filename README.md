@@ -1,2 +1,2 @@
 # digital-clock
-A python project of a digital clock with features of an alarm clock (opens a youtube video) , timer and stopwatch using tkinter. 
+This is a python project of a digital clock which has the features- alarm clock (it opens a youtube video), stopwatch and timer
